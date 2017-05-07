@@ -30,6 +30,13 @@ AMOUNT = 123_4500  # 123.45 (4-fixed financial)
 AMOUNT = 1_234_500 # 1,234,500
 ```
 
+Also, this works on the fractional and exponent parts, too:
+
+```ruby
+0.000_001 # 1 millionth
+1e10_000  # 1^10000 -- granted, far less useful / in-range…
+```
+
 This would make a very valuable addition to literal syntax.
 
 # Prior art
