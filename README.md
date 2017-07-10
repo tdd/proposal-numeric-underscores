@@ -1,6 +1,6 @@
 # This proposal lives somewhere else now
 
-It's been merged with the **accepted proposal led by Sam Goto**, which [you can find here(https://github.com/tc39/proposal-numeric-separator). Contribute there!
+It's been merged with the **accepted proposal led by Sam Goto**, which [you can find here](https://github.com/tc39/proposal-numeric-separator). Contribute there!
 
 # Motivation
 
