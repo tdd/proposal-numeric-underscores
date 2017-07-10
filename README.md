@@ -1,3 +1,7 @@
+# This proposal lives somewhere else now
+
+It's been merged with the **accepted proposal led by Sam Goto**, which [you can find here(https://github.com/tc39/proposal-numeric-separator). Contribute there!
+
 # Motivation
 
 Large numeric literals are difficult for the human eye to parse quickly, especially when there are long digit repetitions.  This impairs both the ability to get the correct value / order of magnitude…
